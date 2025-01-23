@@ -1,5 +1,13 @@
 <h2 align="left">Hi 👋! My name is Sho and I'm a Junior Web Developer.</h2>
 
+
+- 💻 I’m currently learning *Laravel & React*
+
+- 📫 How to reach me *ryhndastra@gmail.com*
+
+- ⚡ Fun fact *i like Hamster*
+
+
 ###
 
 <div align="center">
