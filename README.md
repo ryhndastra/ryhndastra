@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Sho and I'm a Junior Web Developer.</h2>
 
 
-- 💻 I’m currently learning *Laravel & React*
+- 💻 I’m currently learning *Laravel , React & Flutter
 
 - 📫 How to reach me *ryhndastra@gmail.com*
 
