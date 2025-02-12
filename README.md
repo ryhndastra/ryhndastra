@@ -17,7 +17,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/BnkIxbL8yrMAAAAC/omori-sunny-sunny-omori.gif"  />
+<img align="center" height="150" src="https://media.tenor.com/BnkIxbL8yrMAAAAC/omori-sunny-sunny-omori.gif"  />
 
 ###
 
