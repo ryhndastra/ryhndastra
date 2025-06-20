@@ -5,8 +5,6 @@
 
 - 📫 How to reach me *ryhndastra@gmail.com*
 
-- ⚡ Fun fact *i like Hamster*
-
 - 😏 I think i have *mental breakdown*
 
 
