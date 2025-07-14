@@ -7,6 +7,8 @@
 
 - 😏 I think i have *mental breakdown*
 
+- 🐹 My hamster codes better than me. *pls send halp*
+
 
 ###
 
