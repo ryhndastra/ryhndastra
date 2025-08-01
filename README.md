@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ryhndastra&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryhndastra&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
@@ -39,7 +39,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,laravel,html,css,js,tailwind,php,mysql,git,github,vscode,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,laravel,html,css,js,tailwind,php,mysql,git,github,vscode,firebase" alt="Tech Stack" />
 </div>
 
 ### 💻 Languages & Frameworks
@@ -52,6 +52,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ---
 
