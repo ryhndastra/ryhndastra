@@ -5,7 +5,7 @@
 
 - 📫 How to reach me *ryhndastra@gmail.com*
 
-- 😏 I think i have *mental breakdown*
+- 😏 *mentally unstable*
 
 - 🐹 My hamster codes better than me. *pls send halp*
 
