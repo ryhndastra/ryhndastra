@@ -42,14 +42,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryhndastra&theme=dracula&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
@@ -66,11 +58,4 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
-</div>
-
----
-
-<div align="center">
-  <h3>Thanks for visiting! 😄</h3>
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
