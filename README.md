@@ -13,6 +13,7 @@
 
 <img align="right" height="120" src="https://media.tenor.com/BnkIxbL8yrMAAAAC/omori-sunny-sunny-omori.gif" alt="Coding GIF"/>
 
+- 🎓 **Student** at Widyatama University
 - 💻 Currently focusing on learning **Flutter**
 - 📫 Reach me: **ryhndastra@gmail.com**
 - 😏 *Mentally unstable* (but my code is stable... sometimes)
