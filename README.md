@@ -18,6 +18,7 @@
 - 📫 Reach me: **ryhndastra@gmail.com**
 - 😏 *Mentally unstable* (but my code is stable... sometimes)
 - 🐹 My hamster codes better than me. *pls send halp*
+- 🐧 I use *Arch* Btw.
 
 ---
 
