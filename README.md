@@ -25,14 +25,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryhndastra&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryhndastra&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryhndastra&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" />
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
