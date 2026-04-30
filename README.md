@@ -1,67 +1,83 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rey!;Welcome+to+my+Profile!;" />
-</h1>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryhndastra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ryhndastra?label=Followers&style=social" alt="GitHub followers" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=90&section=header&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi+I'm+Rey;Flutter+%7C+React+Developer;I+use+Arch+btw" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ryhndastra&color=8A2BE2&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/ryhndastra?style=social"/>
+</p>
+
 </div>
 
----
+<br>
 
-## 🚀 About Me
+<div align="center">
 
-<img align="right" height="120" src="https://media.tenor.com/BnkIxbL8yrMAAAAC/omori-sunny-sunny-omori.gif" alt="Coding GIF"/>
+## 🛠 Tech Stack
 
-- 🎓 **Student** at Widyatama University
-- 💻 Currently focusing on learning **Flutter**
-- 📫 Reach me: **ryhndastra@gmail.com**
-- 😏 *Mentally unstable* (but my code is stable... sometimes)
-- 🐹 My hamster codes better than me. *pls send halp*
-- 🐧 I use *Arch* Btw.
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,laravel,js,html,css,tailwind,firebase,mysql,git,github,vscode&perline=7" />
 
----
+</div>
+
+<br>
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryhndastra&theme=dracula&hide_border=false" height="170"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ryhndastra&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="170"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryhndastra&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="170"/>
-    </td>
-  </tr>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryhndastra&theme=dracula&hide_border=false" height="160"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=ryhndastra&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="160"/>
+</td>
+<td>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryhndastra&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="160"/>
+</td>
+</tr>
 </table>
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,laravel,js,html,css,tailwind,firebase,mysql,git,github,vscode" alt="Tech Stack" />
 </div>
 
----
-
-## 📫 Connect with Me
+<br>
 
 <div align="center">
-  <a href="https://www.instagram.com/ryhndastra" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  <a href="mailto:ryhndastra@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
+
+## 🤝 Connect
+
+<a href="mailto:ryhndastra@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="38"/>
+</a>
+<a href="https://www.instagram.com/ryhndastra">
+  <img src="https://skillicons.dev/icons?i=instagram" height="38"/>
+</a>
+<a href="https://www.linkedin.com/in/reyhand-astra">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="38"/>
+</a>
+
 </div>
 
----
+<br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+
+## 📈 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryhndastra&theme=tokyo-night&hide_border=true&color=8A2BE2&line=BD93F9&point=FFFFFF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 💬
+
+<i>"Talk is cheap. Show me the code."</i>  
+— Linus Torvalds
+
 </div>
