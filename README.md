@@ -24,9 +24,19 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryhndastra&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryhndastra&theme=dracula&hide_border=false" height="170"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ryhndastra&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="170"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryhndastra&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="170"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
