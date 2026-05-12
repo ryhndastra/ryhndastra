@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=90&section=header&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi+I'm+Rey;Flutter+%7C+React+Developer;I+use+Arch+btw" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi+I'm+Rey;Mobile+%7C+Web+Developer;I+use+Arch+btw" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ryhndastra&color=8A2BE2&style=flat-square"/>
