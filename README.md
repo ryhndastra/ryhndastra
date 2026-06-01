@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1910" height="1026" alt="image" src="https://github.com/user-attachments/assets/db962385-c9d4-4667-bdec-857b9baea99d" /><div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=90&section=header&animation=fadeIn"/>
 
@@ -33,7 +33,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryhndastra&theme=dracula&hide_border=false" height="160"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=ryhndastra&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats-eight-smoky-34.vercel.app/api?username=ryhndastra&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="160"/>
 </td>
 <td>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryhndastra&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="160"/>
