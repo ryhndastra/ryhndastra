@@ -1,4 +1,4 @@
-<img width="1910" height="1026" alt="image" src="https://github.com/user-attachments/assets/db962385-c9d4-4667-bdec-857b9baea99d" /><div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=90&section=header&animation=fadeIn"/>
 
